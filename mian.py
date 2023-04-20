@@ -12,7 +12,7 @@ import pygame
 import time
 import matplotlib.pyplot as plt
 import sys
-from qtable_manager import load_qtable, save_qtable, test_qtable
+from qtable_manager import *
 
 rewards = []
 
